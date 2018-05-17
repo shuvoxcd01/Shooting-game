@@ -1,0 +1,11 @@
+key                  what it does
+-----           ---------------
+A/a                 moves your drone to left
+D/d                 moves your drone to right
+W/w                moves your drone to up
+S/s                  moves your drone to down
+4                     gun fire
+5                     displays/hides hood
+8                     moves your drone forward
+2                     moves your drone backward
+Esc                   exit to main menu
